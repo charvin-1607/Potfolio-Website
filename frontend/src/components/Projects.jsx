@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 
 import taskManagementImg from "../assets/images/project images/task-managment-system.png";
 import aichatbot from "../assets/images/project images/ai-chat-bot.png";
+import portfolioImg from "../assets/images/project images/potfolio-website.png";
 
 
 function Projects() {
@@ -65,11 +66,13 @@ function Projects() {
                 "Framer Motion"
             ],
 
-            github: "YOUR_GITHUB_LINK",
+            github: "https://github.com/charvin-1607/Potfolio-Website.git",
 
             live: "YOUR_LIVE_LINK",
 
-            type: "website"
+            type: "website",
+
+            image: portfolioImg
         }
     ];
 
