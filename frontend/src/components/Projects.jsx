@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 import taskManagementImg from "../assets/images/project images/task-managment-system.png";
-import aichatbot from "../assets/images/project images/ai-chat-bot.png";
+import aichatbot from "../assets/images/project images/Ai-chat-bot.png";
 import portfolioImg from "../assets/images/project images/potfolio-website.png";
 
 
