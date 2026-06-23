@@ -7,9 +7,7 @@ function Navbar() {
       <div className="max-w-7xl mx-auto flex justify-between items-center px-8 py-4">
 
         <h1 className="text-2xl font-bold text-sky-400">
-          
             {"<Charvin />"}
-         
         </h1>
 
         <ul className="hidden md:flex gap-8">

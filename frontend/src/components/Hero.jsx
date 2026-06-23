@@ -72,7 +72,10 @@ function Hero() {
                 <FaGithub className="cursor-pointer" />
               </a>
 
+              {/* <a href="https://www.linkedin.com/in/charvin-shah-210223419">
+
               <FaLinkedin className="cursor-pointer" />
+              </a> */}
 
             </div>
 
