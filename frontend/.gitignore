@@ -26,7 +26,7 @@ dist-ssr
 # Personal Profile Images
 src/assets/images/project images/profileImg_1.png
 src/assets/images/project images/profileImg_2.png
-src/assets/images/project images/potfolio-website.png
+
 
 # Documentation PDF
 public/Task-managment-system-final.pdf
