@@ -68,7 +68,7 @@ function Projects() {
 
             github: "https://github.com/charvin-1607/Potfolio-Website.git",
 
-            live: "YOUR_LIVE_LINK",
+            live: "https://potfolio-website-nu-five.vercel.app",
 
             type: "website",
 
